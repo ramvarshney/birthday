@@ -103,6 +103,7 @@ footer {
     height: 50px;
     z-index: 0;
     animation: fly 10s infinite;
+    animation: flutter 8s linear infinite;
 }
 
 @keyframes fly {
